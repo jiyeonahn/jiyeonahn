@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <br>
   </p>
-  <h3 align="center">🌈 Follow Me 🌈</h3>
+  <h3 align="center">🙋‍♀️Follow Me🙋‍♀️</h3>
 <p align="center">
   <a href="https://blog.naver.com/ajy7424"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ajy7424"/></a>&nbsp
 </p>
@@ -20,7 +20,7 @@
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=yeonii98&show_icons=true"/><br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yeonii98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact"/><br>
-  <img src = "https://github-profile-trophy.vercel.app/?username=yeonii98"/>
+<!--   <img src = "https://github-profile-trophy.vercel.app/?username=yeonii98"/> -->
 </p>
 
 <!--
