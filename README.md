@@ -1,6 +1,9 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jiyeonahn"/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/jiyeonahn" alt="Farm Image"/>
+  </a>
+</div>
+
 <!-- <h3 align="center">Hi there 👋</h3> -->
 <!-- <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center">
