@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=180&section=header&text=jiyeon's%20Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=180&section=header&text=jiyeon's%20Github&fontSize=40" />
 <h3 align="center">👋 Hi there👋 </h3>
   <p align="center">
   I'm interested in backend development skills.<br>
